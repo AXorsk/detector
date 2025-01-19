@@ -1,4 +1,6 @@
 # detector
 object detector &amp; recognizer by yolo8
 
-**yolov8x-oiv7.pt to be trained**
+**models are not provided here**
+
+**use the yolo pre-trained model or contact _AcceleratorX_**
